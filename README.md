@@ -4,6 +4,6 @@ Recipe application where the user can either search for recipRecipe application 
 
 The language learned in this course's project was JavaScript.
 
-This project was designed by my teacher Jonas Schmedtmann.
+This project was built by me, based on the online course The Complete JavaScript Course by professor Jonas Schmedtmann, who designed it and allowed me to use it for my personal learning and portfolio.
 
-[Click here to see the project!](https://forkify-course-octi.netlify.app/)
+[👉Click here to see the project! 🍝](https://forkify-course-octi.netlify.app/)
